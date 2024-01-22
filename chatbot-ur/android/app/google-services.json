@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "111097774277",
+    "project_id": "chatbotur-f8517",
+    "storage_bucket": "chatbotur-f8517.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:111097774277:android:54f7d6e96a90b02b6870ac",
+        "android_client_info": {
+          "package_name": "com.example.chatbot"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDusKOB4lgZLvMiIxVi24_iTci2nJD9qPE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

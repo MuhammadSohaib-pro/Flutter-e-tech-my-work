@@ -1,0 +1,12 @@
+<svg width="52" height="53" viewBox="0 0 52 53" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="facebook-1_svgrepo.com">
+<path id="Vector" d="M26 49.5C38.5645 49.5 48.75 39.3145 48.75 26.75C48.75 14.1855 38.5645 4 26 4C13.4355 4 3.25 14.1855 3.25 26.75C3.25 39.3145 13.4355 49.5 26 49.5Z" fill="url(#paint0_linear_977_9632)"/>
+<path id="Vector_2" d="M34.4723 33.7076L35.4828 27.2864H29.1609V23.1214C29.1609 21.3643 30.0425 19.6505 32.8741 19.6505H35.75V14.1839C35.75 14.1839 33.1411 13.75 30.648 13.75C25.4391 13.75 22.0378 16.826 22.0378 22.3924V27.2864H16.25V33.7076H22.0378V49.2311C23.1996 49.409 24.3883 49.5 25.5993 49.5C26.8102 49.5 27.9991 49.409 29.1609 49.2311V33.7076H34.4723Z" fill="white"/>
+</g>
+<defs>
+<linearGradient id="paint0_linear_977_9632" x1="26" y1="4" x2="26" y2="49.3651" gradientUnits="userSpaceOnUse">
+<stop stop-color="#18ACFE"/>
+<stop offset="1" stop-color="#0163E0"/>
+</linearGradient>
+</defs>
+</svg>

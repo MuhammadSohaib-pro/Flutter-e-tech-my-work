@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>API_KEY</key>
+	<string>AIzaSyA-0RTpxqy_BWovRfmmZZriAe_l0qwlU0U</string>
+	<key>GCM_SENDER_ID</key>
+	<string>520443818213</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.chatbot</string>
+	<key>PROJECT_ID</key>
+	<string>chatbot-712ac</string>
+	<key>STORAGE_BUCKET</key>
+	<string>chatbot-712ac.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:520443818213:ios:8af3b58d832da0048aa40c</string>
+	<key>DATABASE_URL</key>
+	<string>https://chatbot-712ac-default-rtdb.firebaseio.com</string>
+</dict>
+</plist>

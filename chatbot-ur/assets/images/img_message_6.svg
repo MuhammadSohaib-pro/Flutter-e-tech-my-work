@@ -1,0 +1,31 @@
+<svg width="257" height="60" viewBox="0 0 257 60" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M257 50C257 55.5228 252.523 60 247 60L10 60C4.47716 60 -3.91405e-07 55.5229 -8.74228e-07 50L-5.24537e-06 2.24677e-05L247 8.74228e-07C252.523 3.91405e-07 257 4.47715 257 10L257 50Z" fill="#816ADC"/>
+<rect x="37" y="35" width="4" height="10" rx="2" transform="rotate(180 37 35)" fill="#BBAAFF"/>
+<rect x="28" y="36" width="4" height="12" rx="2" transform="rotate(180 28 36)" fill="#BBAAFF"/>
+<rect x="19" y="41" width="4" height="22" rx="2" transform="rotate(180 19 41)" fill="#BBAAFF"/>
+<rect x="126" y="50" width="4" height="39" rx="2" transform="rotate(180 126 50)" fill="#BBAAFF"/>
+<rect x="108" y="50" width="4" height="39" rx="2" transform="rotate(180 108 50)" fill="#BBAAFF"/>
+<rect x="99" y="47" width="4" height="33" rx="2" transform="rotate(180 99 47)" fill="#BBAAFF"/>
+<rect x="90" y="41" width="4" height="21" rx="2" transform="rotate(180 90 41)" fill="#BBAAFF"/>
+<rect x="81" y="35" width="4" height="10" rx="2" transform="rotate(180 81 35)" fill="#BBAAFF"/>
+<rect x="72" y="35" width="4" height="10" rx="2" transform="rotate(180 72 35)" fill="#BBAAFF"/>
+<rect x="63" y="37" width="4" height="14" rx="2" transform="rotate(180 63 37)" fill="#BBAAFF"/>
+<rect x="45" y="35" width="4" height="9" rx="2" transform="rotate(180 45 35)" fill="#BBAAFF"/>
+<mask id="mask0_4_70" style="mask-type:alpha" maskUnits="userSpaceOnUse" x="140" y="11" width="58" height="39">
+<rect x="189" y="35" width="4" height="10" rx="2" transform="rotate(180 189 35)" fill="#BBAAFF"/>
+<rect x="198" y="35" width="4" height="10" rx="2" transform="rotate(180 198 35)" fill="#BBAAFF"/>
+<rect x="180" y="36" width="4" height="12" rx="2" transform="rotate(180 180 36)" fill="#BBAAFF"/>
+<rect x="171" y="41" width="4" height="22" rx="2" transform="rotate(180 171 41)" fill="#BBAAFF"/>
+<rect x="162" y="44" width="4" height="28" rx="2" transform="rotate(180 162 44)" fill="#BBAAFF"/>
+<rect x="153" y="50" width="4" height="39" rx="2" transform="rotate(180 153 50)" fill="#BBAAFF"/>
+<rect x="144" y="40" width="4" height="20" rx="2" transform="rotate(180 144 40)" fill="#BBAAFF"/>
+</mask>
+<g mask="url(#mask0_4_70)">
+<rect x="139" y="9" width="62" height="42" fill="#BBAAFF"/>
+</g>
+<rect x="54" y="41" width="4" height="22" rx="2" transform="rotate(180 54 41)" fill="#BBAAFF"/>
+<rect x="117" y="48" width="4" height="35" rx="2" transform="rotate(180 117 48)" fill="#BBAAFF"/>
+<rect x="135" y="41" width="4" height="22" rx="2" transform="rotate(180 135 41)" fill="#BBAAFF"/>
+<circle cx="224" cy="30" r="18" transform="rotate(180 224 30)" fill="white"/>
+<path d="M231.744 27.8821C233.419 28.8052 233.419 31.1948 231.744 32.1179L221.629 37.6916C220.001 38.5888 218 37.421 218 35.5737V24.4263C218 22.5789 220.001 21.4112 221.629 22.3084L231.744 27.8821Z" fill="#816ADC"/>
+</svg>

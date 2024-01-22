@@ -1,0 +1,4 @@
+enum TimeType {
+  CheckIn,
+  CheckOut,
+}

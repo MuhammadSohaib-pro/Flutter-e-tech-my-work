@@ -1,0 +1,90 @@
+{
+  "project_info": {
+    "project_number": "934758871183",
+    "project_id": "eventapp-32b57",
+    "storage_bucket": "eventapp-32b57.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:934758871183:android:7e0ad5588276d9592880fa",
+        "android_client_info": {
+          "package_name": "com.elabdtech.eventapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "934758871183-3k22jstvlh9r4k0buhmuboml962eph3q.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.elabdtech.eventapp",
+            "certificate_hash": "558aef815c53cb20a23678e12b8f1f80273f2412"
+          }
+        },
+        {
+          "client_id": "934758871183-vva3usvbgnv3oq19k1oqa99a9nljkom9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAgeM_5wcGq7Uj0ZlkoVkOcB6DllrksDA8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "934758871183-vva3usvbgnv3oq19k1oqa99a9nljkom9.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "934758871183-uv4r5ehfc6rvnajnh1c850ev6s4i6e7a.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.elabdtech.eventapp"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:934758871183:android:fe689a19726ba4422880fa",
+        "android_client_info": {
+          "package_name": "com.elabdtech.eventowner"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "934758871183-vva3usvbgnv3oq19k1oqa99a9nljkom9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAgeM_5wcGq7Uj0ZlkoVkOcB6DllrksDA8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "934758871183-vva3usvbgnv3oq19k1oqa99a9nljkom9.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "934758871183-uv4r5ehfc6rvnajnh1c850ev6s4i6e7a.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.elabdtech.eventapp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

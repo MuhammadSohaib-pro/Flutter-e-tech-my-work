@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "520443818213",
+    "firebase_url": "https://chatbot-712ac-default-rtdb.firebaseio.com",
+    "project_id": "chatbot-712ac",
+    "storage_bucket": "chatbot-712ac.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:520443818213:android:cd97a001ec3bd06f8aa40c",
+        "android_client_info": {
+          "package_name": "com.example.chatbot"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDLgKM5SuNiHSs6RiwDr9G3w1TiWa-5Di8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

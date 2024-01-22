@@ -1,0 +1,65 @@
+const image = "assets/images";
+const svg = "assets/svg";
+
+
+
+const imgCod = "$image/cod.png";
+const imgPubg = "$image/pubg.png";
+const imgFreeFire = "$image/freefire.png";
+const imgPerson = "$image/person.jpg";
+const imgValorant = "$image/valorant.png";
+const imgProducts = "$image/product.jpg";
+const imgGaming = "$image/gaming.jpg";
+const imgPone = "$image/pone.png";
+const imgPtwo = "$image/ptwo.png";
+const imgPthree = "$image/pthree.png";
+const imgPfour = "$image/pfour.png";
+const imgPfive = "$image/pfive.png";
+const imgPsix = "$image/psix.png";
+const imgPseven = "$image/pseven.png";
+const imgPeight = "$image/peight.png";
+const imgPnine = "$image/pnine.png";
+const imgPubgPng = "$image/pubgimg.png";
+const imgJackets = "$image/jackets.jpg";
+const imgVideoStreaming = "$image/videostreaming.png";
+const imgLogo = "$image/logo.png";
+
+// const imgOnboarding2 = "$image/onboardingtwo.png";
+
+
+
+
+const icLogoBg = "$svg/logobg.svg";
+const icLogoFront = "$svg/logofront.svg";
+const icLogoBgRectangle = "$svg/logobgrectangle.svg";
+const icOnboardingRectangle = "$svg/onboardingrectangle.svg";
+const icCod = "$svg/cod.svg";
+const icPubg = "$svg/pubg.svg";
+const icFreeFire = "$svg/freefire.svg";
+const icGoogle = "$svg/google.svg";
+const icApple = "$svg/apple.svg";
+const icEnvelope = "$svg/envelop.svg";
+const icLock = "$svg/lock.svg";
+const icUser = "$svg/user.svg";
+const icStore = "$svg/store.svg";
+const icQuests = "$svg/quests.svg";
+const icLive = "$svg/live.svg";
+const icExplore = "$svg/explore.svg";
+const icStoreFill = "$svg/storefill.svg";
+const icQuestsFill = "$svg/questfill.svg";
+const icLiveFill = "$svg/livefill.svg";
+const icExploreFill = "$svg/explorefill.svg";
+const icEllipse = "$svg/ellipse.svg";
+const icPhysical = "$svg/physical.svg";
+const icDigital = "$svg/digital.svg";
+const icTshirt = "$svg/tshirt.svg";
+const icStream = "$svg/stream.svg";
+const icReward = "$svg/reward.svg";
+const icRewardOutlined = "$svg/rewardoutline.svg";
+const icStoreCard = "$svg/storecard.svg";
+const icHeart = "$svg/heart.svg";
+const icShare = "$svg/share.svg";
+const icWatchNow = "$svg/watchnow.svg";
+const icSend = "$svg/send.svg";
+const icPage1 = "$svg/pone.svg";
+

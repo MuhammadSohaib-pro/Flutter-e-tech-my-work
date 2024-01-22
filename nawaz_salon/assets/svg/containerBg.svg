@@ -1,0 +1,30 @@
+<svg width="194" height="194" viewBox="0 0 194 194" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="Contaner">
+<g id="Rectangle 5" filter="url(#filter0_d_8_1628)">
+<path d="M20 36C20 24.9543 28.9543 16 40 16H154C165.046 16 174 24.9543 174 36V170H40C28.9543 170 20 161.046 20 150V36Z" fill="#6D6865"/>
+</g>
+<g id="Mask group">
+<mask id="mask0_8_1628" style="mask-type:alpha" maskUnits="userSpaceOnUse" x="20" y="16" width="154" height="154">
+<path id="Rectangle 6" d="M20 36C20 24.9543 28.9543 16 40 16H154C165.046 16 174 24.9543 174 36V170H40C28.9543 170 20 161.046 20 150V36Z" fill="#6D6865"/>
+</mask>
+<g mask="url(#mask0_8_1628)">
+<g id="bg">
+<path id="Subtract" fill-rule="evenodd" clip-rule="evenodd" d="M126.721 84.1389C129.147 77.3164 130.883 70.1426 131.838 62.6883C139.089 6.09737 98.5684 -45.2298 41.3336 -51.9542C33.7944 -52.84 26.3412 -52.9076 19.0657 -52.228C32.1855 -56.8675 46.5437 -58.6577 61.2721 -56.9273C112.031 -50.9638 147.966 -5.44425 141.536 44.7434C139.67 59.3061 134.442 72.6617 126.721 84.1389Z" fill="#635E5B"/>
+<ellipse id="Ellipse 5" cx="87.2579" cy="86.0015" rx="87.2579" ry="86.0015" transform="matrix(-0.960646 0.277776 0.277776 0.960646 105.818 -82.0913)" fill="#635E5B"/>
+</g>
+</g>
+</g>
+</g>
+<defs>
+<filter id="filter0_d_8_1628" x="0" y="0" width="194" height="194" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
+<feOffset dy="4"/>
+<feGaussianBlur stdDeviation="10"/>
+<feComposite in2="hardAlpha" operator="out"/>
+<feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.17 0"/>
+<feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow_8_1628"/>
+<feBlend mode="normal" in="SourceGraphic" in2="effect1_dropShadow_8_1628" result="shape"/>
+</filter>
+</defs>
+</svg>

@@ -1,0 +1,12 @@
+
+class MyDiscoverItem {
+  final String text;
+  final String imageAsset;
+
+
+  MyDiscoverItem({
+    required this.text,
+    required this.imageAsset,
+
+  });
+}

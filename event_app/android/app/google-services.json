@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "934758871183",
+    "project_id": "eventapp-32b57",
+    "storage_bucket": "eventapp-32b57.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:934758871183:android:7e0ad5588276d9592880fa",
+        "android_client_info": {
+          "package_name": "com.elabdtech.eventapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAgeM_5wcGq7Uj0ZlkoVkOcB6DllrksDA8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

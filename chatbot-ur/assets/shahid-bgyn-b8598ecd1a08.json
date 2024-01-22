@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "shahid-bgyn",
+  "private_key_id": "b8598ecd1a08246abeb89c72eb02968c87ba341c",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDBcta8oqflDfVv\n1CKzm5rHqajhXEqdkpEgIB918/GaMv4Uc957ePxhjBiYeCDETkfpPM6cx1RQaAfd\nsgg2qBgtcLAQkl3xX2V4jZIGCvhe4zz2jZWxjg5Qpt9w2/GqmCrUw7zc2N85c/Kh\nJWYw5IO7CDDE4LC/ubztT3qkV4eO4jlwDJSKn3DuTWkEseyzQf85PbO2F3AQ7Jd8\n2082m/JsGDEt9YG/jn6/ypo36/vG+q6oxqR/OCzN+z6/y8qNvZKotiTHt7NPqeuw\n5sWseMevznOsTfqOJY0xXHaQqND60sBgf0P9dlXLXvo0dHC/4p9M3pw2BfGf8vnR\nsK5AOsUdAgMBAAECggEAB2hL07ZQwoMZ0lnnqEP9lcan2lVL4CPEHdxNCBm6tyJb\nu1HCg6za0Stpp7D15D5xH3u+F5/EWT3ai0EtclZWcqr9euz33u29t3OIU2XpI80E\nwRYj1MQxRSJWrP4nD1a7USFbooNFbPBFKqmBc77UUn2aTHekHPtSQi4IbrGRVcW/\ntuVaFjBos64/yN9JR58KeDcRNSPqGthMc4k2ynF6cG+ybaLImu26me1FNacETjCN\nq/sNa3uq4uZwFQiGmmHXvcb5GQoMycWYD1KwBKvAR/TON4oO1A7Yzv6iEEsvjPaV\nziEplI4h4JeU9l7HL5WLbhDlUX0sQVVUzWjEd/DUIQKBgQD2SgAc7Gwq2y8cBFVa\nGcwv3z/zAXRkjieMAwxfL82lIGx0Vi/Hz61O2iJ06VkuhsHc7lRYhhU058YRyUkC\nUCSYET53N6lcaENpn/BsaZUnYSMuCWAXcMwTGAAi7kpcraASNQORkakxv32vNr9d\n32lWFIaqM6Y/Etm55jZKCAU6EQKBgQDJE3nGeCZuaVLkRfpRuqHryW+bPvQEjCoo\n7FnydXY57AU3YHKCugi2vdWG/dvLwCjrYYUTwsFOCrHwRL5K4HdATgw4gJYIk5v6\nzmzNHFoeUoli4PnI/Nc4hXLdj/s2UFi0HZzhbTUzRjw7PCpUyndyx2H0UPmpAytK\nwnZFv2VuTQKBgQCGtMDNEQ60ff+NPl2Ek1mX0W6Dtgb4PLwqmzw4D8hViZ9oHf+y\nNMegujRgZ4Tsqq377araZDPTJPWzork496acOcpFoH8UWL6OVflFApae3EVGl8Aj\n8gDcbKMed+DaQeisLKzQALBe0lKm87XFXT2a5E0naGqEUwYc5GpLIYniUQKBgCRe\nn3IknV7vMg0UEzjhNxR89PDxrBV+fMm2JnbShDXp2O+xREUc/SKAp7SpCi6KbVxV\n4Uo3udsx2AmLhZfpjehVtaQqrfiTKm1tFQTskehWKX93DfcqtIsGqEYnGtsyITlC\n+fNUW4EQvShBs65uiLh8E92rH91QM25sShRHkEMpAoGBAKDvbipDYPPsoRz8S2D+\n6GQYJs9f9pmpov1egRWoQzPXIqjfEUMxj1vePetF+Ifbh3w7cPmf17nK/k+QR9eV\nvMyjHV2Lbmbj5i85zPHzo25UWVfggb8eCHOoZVs1+32/ptoC7VBPyQ1S49jydgAz\n3sLXTu+Pn3peJN+0KpR19XGQ\n-----END PRIVATE KEY-----\n",
+  "client_email": "shahid-dialogueflow@shahid-bgyn.iam.gserviceaccount.com",
+  "client_id": "105143055221389077432",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/shahid-dialogueflow%40shahid-bgyn.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}

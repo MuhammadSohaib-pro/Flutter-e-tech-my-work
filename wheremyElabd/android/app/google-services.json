@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "359966040728",
+    "project_id": "wheremy-548d1",
+    "storage_bucket": "wheremy-548d1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:359966040728:android:22cbbd0b827812261366ed",
+        "android_client_info": {
+          "package_name": "com.example.wheremyelabd"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCMQu4N5BBea81LFs9imVbZFc3FclsLYDc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
