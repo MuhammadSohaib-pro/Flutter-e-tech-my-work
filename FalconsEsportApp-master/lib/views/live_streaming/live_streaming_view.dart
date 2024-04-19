@@ -39,7 +39,7 @@ class _LiveStreamingViewState extends State<LiveStreamingView> {
                         height: MySize.size40,
                         decoration: const ShapeDecoration(
                           image: DecorationImage(
-                            image: AssetImage(imgPthree),
+                            image: AssetImage(imgPerson),
                             fit: BoxFit.cover,
                           ),
                           shape: OvalBorder(),
@@ -50,7 +50,7 @@ class _LiveStreamingViewState extends State<LiveStreamingView> {
                         crossAxisAlignment: CrossAxisAlignment.start,
                         children: [
                           Text(
-                            'SnappiCSGO',
+                            'Mr. Jay Plays',
                             style: TextStyle(
                               color: ThemeColors.bgColor,
                               fontSize: MySize.size16,

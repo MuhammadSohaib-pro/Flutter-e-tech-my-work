@@ -2,8 +2,7 @@
 
 import 'package:falconsesportsapp/helper/constant.dart';
 import 'package:falconsesportsapp/helper/mySize.dart';
-import 'package:falconsesportsapp/helper/theme_helper.dart';
-import 'package:falconsesportsapp/views/onboarding/onboarding_one_view.dart';
+import 'package:falconsesportsapp/views/bottom_nav_bar/bottom_nav_bar_view.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_svg/flutter_svg.dart';
 
@@ -45,7 +44,7 @@ class _SplashViewState extends State<SplashView>
         Navigator.push(
           context,
           MaterialPageRoute(
-            builder: (context) => const OnBoardingView1(),
+            builder: (context) => const BottomNavBarView(),
           ),
         );
       },
@@ -81,14 +80,19 @@ class _SplashViewState extends State<SplashView>
                 alignment: Alignment.topCenter,
                 child: SvgPicture.asset(icLogoBgRectangle),
               ),
-              SvgPicture.asset(
-                icLogoBg,
-                color: ThemeColors.bgColor.withOpacity(.1),
-              ),
+              // SvgPicture.asset(
+              //   icLogoBg,
+              //   color: ThemeColors.bgColor.withOpacity(.1),
+              // ),
               // SvgPicture.asset(icLogoFront),
               SlideTransition(
                 position: _offsetAnimation,
-                child: SvgPicture.asset(icLogoFront),
+                // child: SvgPicture.asset(icLogoFront),
+                child: Image.asset(
+                  imgNewlogo,
+                  height: 150,
+                  width: 150,
+                ),
                 // Container(
                 //   width: 200,
                 //   height: 200,

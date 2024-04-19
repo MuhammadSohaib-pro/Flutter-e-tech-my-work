@@ -1,8 +1,8 @@
 const image = "assets/images";
 const svg = "assets/svg";
 
-
-
+const imgNewlogo = "$image/newesportlogo.png";
+const imgPubgLive = "$image/pubgLive.jpg";
 const imgCod = "$image/cod.png";
 const imgPubg = "$image/pubg.png";
 const imgFreeFire = "$image/freefire.png";
@@ -25,9 +25,6 @@ const imgVideoStreaming = "$image/videostreaming.png";
 const imgLogo = "$image/logo.png";
 
 // const imgOnboarding2 = "$image/onboardingtwo.png";
-
-
-
 
 const icLogoBg = "$svg/logobg.svg";
 const icLogoFront = "$svg/logofront.svg";
@@ -62,4 +59,3 @@ const icShare = "$svg/share.svg";
 const icWatchNow = "$svg/watchnow.svg";
 const icSend = "$svg/send.svg";
 const icPage1 = "$svg/pone.svg";
-

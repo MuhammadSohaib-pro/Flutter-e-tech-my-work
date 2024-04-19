@@ -27,7 +27,7 @@ class MyApp extends StatelessWidget {
         ChangeNotifierProvider(create: (_) => OnboardingProvider()),
       ],
       builder: (context, child) => MaterialApp(
-        title: 'Falcons Esports App',
+        title: 'Twitch Esports App',
         debugShowCheckedModeBanner: false,
         theme: ThemeData(
           scaffoldBackgroundColor: ThemeColors.mainColor,

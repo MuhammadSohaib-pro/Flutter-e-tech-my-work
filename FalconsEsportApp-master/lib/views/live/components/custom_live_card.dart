@@ -20,8 +20,8 @@ class CustomLiveCard extends StatelessWidget {
         height: MySize.size207,
         decoration: ShapeDecoration(
           image: const DecorationImage(
-            image: AssetImage(imgGaming),
-            fit: BoxFit.cover,
+            image: AssetImage(imgPubgLive),
+            fit: BoxFit.fill,
           ),
           shape: RoundedRectangleBorder(
             borderRadius: BorderRadius.circular(10),
@@ -41,16 +41,18 @@ class CustomLiveCard extends StatelessWidget {
                 ),
               ),
               child: Padding(
-                padding: Spacing.horizontal(
-                    MySize.size10),
+                padding: Spacing.horizontal(MySize.size10),
                 child: Row(
                   children: [
                     Container(
                       width: MySize.size42,
                       height: MySize.size42,
                       decoration: const ShapeDecoration(
-                        color: Colors.deepPurpleAccent,
-                        shape: OvalBorder(),
+                        image: DecorationImage(
+                          image: AssetImage(imgPerson),
+                          fit: BoxFit.cover,
+                        ),
+                        shape: CircleBorder(),
                         shadows: [
                           BoxShadow(
                             color: Color(0x2B18B35B),
@@ -67,7 +69,7 @@ class CustomLiveCard extends StatelessWidget {
                       mainAxisAlignment: MainAxisAlignment.center,
                       children: [
                         Text(
-                          'Falcons Live Stream',
+                          'Twitch Live Stream',
                           style: TextStyle(
                             color: ThemeColors.bgColor,
                             fontSize: MySize.size16,
@@ -82,28 +84,38 @@ class CustomLiveCard extends StatelessWidget {
                               child: Stack(
                                 children: [
                                   Container(
-                                    width: MySize.size17,
-                                    height: MySize.size17,
+                                    width: MySize.size20,
+                                    height: MySize.size20,
                                     decoration: const ShapeDecoration(
                                       color: ThemeColors.bgColor,
+                                      image: DecorationImage(
+                                        image: AssetImage(imgPerson),
+                                        fit: BoxFit.cover,
+                                      ),
                                       shape: OvalBorder(
                                         side: BorderSide(
-                                            width: 0.50,
-                                            color: Color(0xFF18B35B)),
+                                          width: 2,
+                                          color: ThemeColors.black1,
+                                        ),
                                       ),
                                     ),
                                   ),
                                   Positioned(
                                     left: 9,
                                     child: Container(
-                                      width: MySize.size17,
-                                      height: MySize.size17,
+                                      width: MySize.size20,
+                                      height: MySize.size20,
                                       decoration: const ShapeDecoration(
                                         color: Colors.blue,
+                                        image: DecorationImage(
+                                          image: AssetImage(imgPerson),
+                                          fit: BoxFit.cover,
+                                        ),
                                         shape: OvalBorder(
                                           side: BorderSide(
-                                              width: 0.50,
-                                              color: Color(0xFF18B35B)),
+                                            width: 2,
+                                            color: ThemeColors.black1,
+                                          ),
                                         ),
                                       ),
                                     ),
@@ -111,14 +123,18 @@ class CustomLiveCard extends StatelessWidget {
                                   Positioned(
                                     left: 18,
                                     child: Container(
-                                      width: MySize.size17,
-                                      height: MySize.size17,
+                                      width: MySize.size20,
+                                      height: MySize.size20,
                                       decoration: const ShapeDecoration(
                                         color: Colors.red,
+                                        image: DecorationImage(
+                                          image: AssetImage(imgPerson),
+                                          fit: BoxFit.cover,
+                                        ),
                                         shape: OvalBorder(
                                           side: BorderSide(
-                                            width: 0.50,
-                                            color: Color(0xFF18B35B),
+                                            width: 2,
+                                            color: ThemeColors.black1,
                                           ),
                                         ),
                                       ),
@@ -127,14 +143,18 @@ class CustomLiveCard extends StatelessWidget {
                                   Positioned(
                                     left: 27,
                                     child: Container(
-                                      width: MySize.size17,
-                                      height: MySize.size17,
+                                      width: MySize.size20,
+                                      height: MySize.size20,
                                       decoration: const ShapeDecoration(
                                         color: Colors.black,
+                                        image: DecorationImage(
+                                          image: AssetImage(imgPerson),
+                                          fit: BoxFit.cover,
+                                        ),
                                         shape: OvalBorder(
                                           side: BorderSide(
-                                              width: 0.50,
-                                              color: Color(0xFF18B35B)),
+                                              width: 2,
+                                              color: ThemeColors.black1),
                                         ),
                                       ),
                                     ),
@@ -191,15 +211,16 @@ class CustomLiveCard extends StatelessWidget {
                       ),
                     ),
                     Container(
-                      width: MySize.size60,
+                      width: MySize.size70,
                       height: MySize.size20,
                       decoration: ShapeDecoration(
-                        color: Colors.white.withOpacity(0.20000000298023224),
+                        color: Colors.black,
                         shape: RoundedRectangleBorder(
                           borderRadius: BorderRadius.circular(10),
                         ),
                       ),
                       child: Row(
+                        mainAxisAlignment: MainAxisAlignment.center,
                         children: [
                           SvgPicture.asset(icUser),
                           SizedBox(width: MySize.size4),

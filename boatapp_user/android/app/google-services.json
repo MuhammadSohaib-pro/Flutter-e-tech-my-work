@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "564754992714",
+    "project_id": "boatapp-e2f43",
+    "storage_bucket": "boatapp-e2f43.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:564754992714:android:7b2694bbb28d3de6dce0b3",
+        "android_client_info": {
+          "package_name": "com.elabdtech.boat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "564754992714-1nvv9n4qg11g5bf2uuvh99vpmnmmk8ep.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC8lvU21t-8T9IDoj28Vd40x0yWiWnd8Fk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "564754992714-1nvv9n4qg11g5bf2uuvh99vpmnmmk8ep.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "564754992714-3lqftr4e9m2g26aeognjdl67rc3t5n40.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.elabdtech.boatowner"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>564754992714-87fds49ht3goikuk3nqsek8co60quk23.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.564754992714-87fds49ht3goikuk3nqsek8co60quk23</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>564754992714-0qh4269vpg0of1l20meieuf74q3hgdks.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyD6CUGwP-Tox6YhtY7FaufiI3cf2RyWR30</string>
+	<key>GCM_SENDER_ID</key>
+	<string>564754992714</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.elabdtech.boat</string>
+	<key>PROJECT_ID</key>
+	<string>boatapp-e2f43</string>
+	<key>STORAGE_BUCKET</key>
+	<string>boatapp-e2f43.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:564754992714:ios:2e0dbcfd0ccbdb1ddce0b3</string>
+</dict>
+</plist>
